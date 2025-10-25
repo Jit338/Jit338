@@ -31,6 +31,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jit338&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Profile views](https://komarev.com/ghpvc/?username=Jit338&label=Profile%20views&color=0e75b6&style=flat)
 
 ![snake gif](https://github.com/Jit338/Jit338/blob/output/github-snake-dark.svg)
